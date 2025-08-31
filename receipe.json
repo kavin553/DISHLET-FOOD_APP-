@@ -1,0 +1,69 @@
+{
+  "name": "Recipe",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Name of the recipe"
+    },
+    "ingredients": {
+      "type": "string",
+      "description": "Ingredients used in the recipe"
+    },
+    "instructions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Step-by-step cooking instructions"
+    },
+    "cooking_time": {
+      "type": "string",
+      "description": "Estimated cooking time"
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": [
+        "Easy",
+        "Medium",
+        "Hard"
+      ],
+      "description": "Difficulty level"
+    },
+    "cuisine": {
+      "type": "string",
+      "description": "Type of cuisine"
+    },
+    "servings": {
+      "type": "number",
+      "description": "Number of servings"
+    },
+    "preference": {
+      "type": "string",
+      "enum": [
+        "veg",
+        "non_veg",
+        "vegan",
+        "healthy"
+      ],
+      "description": "Diet preference used to generate this recipe"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "URL of the generated food image"
+    },
+    "rating": {
+      "type": "number",
+      "description": "Average or user rating 0-5"
+    },
+    "instructions_language": {
+      "type": "string",
+      "description": "BCP-47 code of the language the instructions are written in (e.g., en, es, fr)"
+    }
+  },
+  "required": [
+    "name",
+    "ingredients",
+    "instructions"
+  ]
+}
