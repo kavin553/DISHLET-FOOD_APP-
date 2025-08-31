@@ -2,6 +2,9 @@
 ![dishlet_logo](https://github.com/user-attachments/assets/a7829cf0-477a-422f-9eea-54fe3050f024)
 
 APP LINK:https://app--dishlet-c917d1b9.base44.app
+
+<img width="1920" height="872" alt="dishlet" src="https://github.com/user-attachments/assets/0b5a2409-61b6-40cf-90af-426f22e961fb" />
+
 A recipe generator app that suggests dishes based on ingredients you enter.  FoodApp: Enter ingredients and get recipes with step-by-step instructions.  An AI-powered recipe app that turns ingredients into cooking ideas.  Dishlet A food recipe app that helps you cook with what you have.
 🍲 Food Recipe App
 
@@ -22,6 +25,7 @@ A simple recipe generator app where users can enter ingredients they have, and t
 
 🎨 Simple and beginner-friendly design.
 
+<img width="1900" height="876" alt="dishlet1" src="https://github.com/user-attachments/assets/a200072d-98ec-4cf9-8d17-49bd8c3171b7" />
 
 
 ---
@@ -40,6 +44,7 @@ A simple recipe generator app where users can enter ingredients they have, and t
 4. Get detailed instructions to prepare the selected dish.
 
 
+<img width="1920" height="877" alt="dishlet2" src="https://github.com/user-attachments/assets/70371e04-fdfe-4a47-817d-f3f4b38f58a1" />
 
 
 ---
